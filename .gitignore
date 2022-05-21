@@ -50,3 +50,5 @@ node_modules
 tools/lottiecap/filmstrip.png
 
 bazel-*
+
+package*.json
